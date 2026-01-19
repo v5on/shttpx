@@ -1,0 +1,34 @@
+name: shttpx
+description: Smart Local HTTP Server.
+publish_to: 'none'
+version: 5.1.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Server (shelf_io is included in shelf)
+  shelf: ^1.4.1
+  shelf_static: ^1.1.2
+  
+  # Utils
+  network_info_plus: ^5.0.3
+  permission_handler: ^11.3.1
+  file_picker: ^8.0.0
+  shared_preferences: ^2.2.3
+  url_launcher: ^6.2.6
+  path: ^1.9.0
+  mime: ^1.0.5 
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
