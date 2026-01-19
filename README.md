@@ -14,11 +14,11 @@
 
   <br />
 
-  <a href="https://github.com/v5on/shttpx/releases/latest/download/shttpx-v5-apk.apk">
+  <a href="https://github.com/v5on/shttps/actions/runs/21137210177/artifacts/5176746516">
     <img src="https://img.shields.io/badge/Download-Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="50" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/v5on/shttpx/releases/latest/download/shttpx_v5_win.zip">
+  <a href="https://github.com/v5on/shttps/actions/runs/21137210177/artifacts/5176704579">
     <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="50" />
   </a>
 
